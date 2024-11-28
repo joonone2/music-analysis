@@ -28,6 +28,9 @@
    - **2018년부터 2023년까지의 연도별 상위 50곡**의 **가사**를 크롤링하고, **TextBlob**을 이용하여 각 곡에 대해 감정 분석을 수행합니다.  
    - 연도별로 **평균 감정 점수**를 계산하고 이를 **라인 그래프**로 시각화하여 노래 가사의 감정변화를 시각화합니다.
   
+
+![melon](https://github.com/user-attachments/assets/d5f6dad2-c89a-4d9a-9634-6a9e37db71da)
+  
 ---
 
 
@@ -49,6 +52,11 @@
 3. **분석 및 시각화**  
    - **주요 특성 비교**: 각 곡의 **danceability**, **energy**, **speechiness** 등을 기준으로 비교  
    - **그룹별 평균값**: 2024년 발매 곡, Top 50 곡, 빌보드 역주행 곡들의 특성 평균값을 **레이더 차트**로 시각화하여 직관적으로 비교  
+
+![billboard_count](https://github.com/user-attachments/assets/aefc5479-4a93-4906-bb15-52a5959b91a7)
+
+
+![billboard_feature](https://github.com/user-attachments/assets/7ffb2564-2fec-493d-823b-599b0c674f26)
 
 
 ---
@@ -99,5 +107,8 @@
 5. **특이사항**:  
    - **2019년**의 감정 점수가 상대적으로 낮은 이유는 **사재기 논란**과 관련이 있습니다.  
    - 해당 연도의 차트 상위 곡들은 대체로 **슬픈 발라드**곡들이었고, 그로 인해 감정 분석에서 **부정적인 점수**가 많이 나왔습니다.
+  
+![youtube_comment](https://github.com/user-attachments/assets/0386f1ba-f3a0-4ee2-a9f6-7f1eb34f8803)
+
 
 
