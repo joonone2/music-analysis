@@ -139,7 +139,8 @@
    - **2019년**의 감정 점수가 상대적으로 낮은 이유는 **사재기 논란**과 관련이 있습니다.  
    - 해당 연도의 차트 상위 곡들은 대체로 **슬픈 발라드**곡들이었고, 그로 인해 감정 분석에서 **부정적인 점수**가 많이 나왔습니다.
   
-![melon](https://github.com/user-attachments/assets/d5f6dad2-c89a-4d9a-9634-6a9e37db71da)
+![melon](https://github.com/user-attachments/assets/3ac0b2ae-b4bf-45a8-b4ef-2054c3278716)
+
 
 
 
