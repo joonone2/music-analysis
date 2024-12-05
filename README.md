@@ -135,7 +135,8 @@
    - **Seaborn**과 **Matplotlib**를 사용하여 연도별 **평균 감정 점수**를 **라인 그래프**로 시각화합니다.  
    - 그래프에서 연도별 감정 점수의 변화를 직관적으로 확인할 수 있습니다.
 
-  
+
+### 시각화(개선 전) 
   
 ![melon_top5](https://github.com/user-attachments/assets/04b29288-dc5d-43f2-acdc-abbf0c89df2f)
 
@@ -143,6 +144,26 @@
   
 ![melon](https://github.com/user-attachments/assets/3ac0b2ae-b4bf-45a8-b4ef-2054c3278716)
 
+
+---
+
+## 개선된 주요 사항
+
+### 1. **감정 분석 방식 변경**
+   - **기존 방식**:  
+     - 가사 전체를 하나의 문자열로 감정 분석에 입력하여 단일 점수를 계산.
+     - 긴 가사에서 세부적인 감정을 포착하지 못함.
+   - **개선 방식**:  
+     - 가사를 문장 단위로 나누어 개별적으로 감정 분석을 수행.
+     - 각 문장의 점수를 계산한 후, 평균값을 사용하여 곡의 전체 감정 점수를 산출.
+     - 보다 세부적인 감정 변화까지 반영 가능.
+    
+### 시각화(개선 후) 
+
+![melon_top5_update](https://github.com/user-attachments/assets/f5bc6c89-1649-47b8-b86b-aee1597856a7)
+
+![melon_update](https://github.com/user-attachments/assets/5c8981fe-3184-4197-be7c-04710b95fb5e)
+com/user-attachments/assets/71cbf8e6-3622-46e0-9d35-28546f7c14ae)
 
 
 
